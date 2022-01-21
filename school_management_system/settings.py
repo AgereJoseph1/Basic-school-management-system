@@ -29,7 +29,7 @@ SECRET_KEY = '_hl@r0j+8c-r@qhnba^&cju47*x=*hwdi6yd6j5(kt1j$ni(w2'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['jotechsms.herokuapp.com','127.0.0.1']
 
 
 # Application definition
